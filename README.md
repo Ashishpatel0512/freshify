@@ -19,9 +19,7 @@ echo "VITE_API_URL=http://localhost:5000/api" > .env
 npm run dev
 ```
 
-### Default Admin Credentials
-- Email: admin@veg.com
-- Password: admin123
+
 
 Backend runs on **http://localhost:5000**  
 Frontend runs on **http://localhost:5173**
